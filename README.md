@@ -12,8 +12,5 @@ npx @niux/cli n
 
 ## 命令
 
-```
 
-```
-
-![](.\images\Snipaste_2023-03-24_07-53-46.png)
+![Snipaste_2023-03-24_07-53-46.png](images\Snipaste_2023-03-24_07-53-46.png)
